@@ -1,0 +1,20 @@
+LU-decomposition/
+├── index.html
+├── backend/
+│   ├── python/
+│   │   ├── requirements.txt
+│   │   └── main.py
+│   ├── typescript/
+│   │   ├── package.json
+│   │   └── server.ts
+│   └── java/
+│       ├── pom.xml
+│       └── src/
+│           └── main/
+│               └── java/
+│                   └── com/
+│                       └── aurum/
+│                           └── lead/
+│                               └── Application.java
+└── scripts/
+    └── readme.sh
